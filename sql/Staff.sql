@@ -9,5 +9,5 @@ CREATE TABLE christiansonk1.Staff (
 	location varchar(255),
     PRIMARY KEY (ID) 
 );
-INSERT into christiansonk1.Staff VALUES (1, 'Mr. Clean', 'clean@email.arizona.edu', '654 freeway', '520-456-5689', '01/02/1990', 'Male', 'Head Inspector', 'what');
+INSERT into christiansonk1.Staff VALUES (1, 'Mr. Clean', 'clean@email.arizona.edu', '654 freeway', '01/02/1990', 'Male', 'Head Inspector', 'what');
 INSERT into christiansonk1.Staff VALUES (2, 'Mrs. Noise Complaint', 'okaysweatie@email.arizona.edu', '9001 wetmore', '09/21/1940', 'Female', 'Disclipinarian', 'what');
